@@ -25,7 +25,7 @@
         </p> 
         <hr>
         <div class="container my-10 text-center">
-          <h style="font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: 300%; text-align: center; color: #7d7c7c;">Galería</h>
+          <h style="font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: 250%; text-align: center; color: #7d7c7c;">Galería</h>
           <div>
             <img src="san4.jpg" alt="azulejos de baño" width="30%">
             <img src="san5.jpg" alt="plato de ducha" width="30%">
