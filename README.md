@@ -39,4 +39,3 @@
       <address style="font-size: 130%; font-style: italic;">Contacto</address>
       <address style=" font-style: italic;">ivo.boril1@gmail.com <br> +34 673 12 57 10</address>
     </div>
-  
