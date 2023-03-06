@@ -46,5 +46,7 @@
         </div>
         <hr>
       <address style="font-size: 130%; font-style: italic;">Contacto</address>
-      <address style=" font-style: italic;">ivo.boril1@gmail.com <br> +34 673 12 57 10</address>
+      <address style=" font-style: italic;"> 
+        <a href="mailto:ivo.boril1@gmail.com" target="_blank">ivo.boril1@gmail.com</a>
+        <br> +34 673 12 57 10</address>
     </div>
